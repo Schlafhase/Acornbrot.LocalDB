@@ -2,5 +2,5 @@
 
 public interface IDbObject
 {
-	
+	public Guid Id { get; }
 }
